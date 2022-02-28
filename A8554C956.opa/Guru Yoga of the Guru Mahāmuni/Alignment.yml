@@ -1,0 +1,19 @@
+segment_sources:
+  P0417CC0A:
+    type: origin_type
+    relation: translation
+    language: en
+  P43A37A26:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  553ee3b540f542b0a075638fcba82a07:
+    P0417CC0A: 8362c2ad10c64aeba134017934c9cd23
+    P43A37A26: 90637f16e3c745018e1e53918d54c830
+  ab707da2a02947c78c980dd1c59d0c2d:
+    P0417CC0A: 92275f15df6943499924e2fa1149d6b3
+    P43A37A26: b81ee5cebf8c4b28b5d87901838b0059
+  c54e730e708f4a2887c35065478448c9:
+    P0417CC0A: f653e30999b94660bfc2bd4830327822
+    P43A37A26: 10ad12dea65f45de93f9b97099115d06

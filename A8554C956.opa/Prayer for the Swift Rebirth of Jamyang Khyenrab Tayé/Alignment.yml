@@ -1,0 +1,31 @@
+segment_sources:
+  P0417CC0A:
+    type: origin_type
+    relation: translation
+    language: en
+  P43A37A26:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2eb0a1dab9ae4ad9a513a2ee8d1e8f77:
+    P0417CC0A: 9b35aad91ce243c19ad6a28e9eac4b0a
+    P43A37A26: c336742c7f13423ba329c72f61ec5e9b
+  625af14dafdc4b7d8fd37bbc168b3c78:
+    P0417CC0A: 969494fe7d5041d3af2bbe07f6141b7c
+    P43A37A26: f7eeef8fc68a4750b6d9075754adfde6
+  8a17789c69f642cf93bad5f932dfa2d9:
+    P0417CC0A: 33647376389744fbb8639c534ece9043
+    P43A37A26: 90e433fa624e4102b5c58b33870d2e66
+  efb933d25ec74712a9a0b814e62b8d36:
+    P0417CC0A: 3a2a658818944728ba78d7bf2495f319
+    P43A37A26: ac3ecd8210c84d31ba7105c11aecac9d
+  45f901a69f1245c888fca6ede3c8f923:
+    P0417CC0A: f2fa9f0dfbb847a6942756879fb7075b
+    P43A37A26: e3b0abcb5138408ea6028a6db9735a3a
+  af1662d153a24c3a9f48fc274c4b9097:
+    P0417CC0A: 0c6e1fcb1dc2481fb48b71ad37c7bd25
+    P43A37A26: 65bec4ebc86a45c6b116fd98012d028d
+  160bbb38192a4d8a9899b7cdc8c41a9d:
+    P0417CC0A: b37b918c59e142909e92919354ec222d
+    P43A37A26: 6baa1d513253435c904b1ce016596d01
